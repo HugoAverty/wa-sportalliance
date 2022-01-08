@@ -63,7 +63,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":"\/@\/sportalliance\/perm\/wa-sportalliance.json#entryFloor"
+                                 "value":"\/@\/sportalliance\/perm\/welcome"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -81,7 +81,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":"\/@\/sportalliance\/perm\/floor2.json"
+                                 "value":"\/@\/sportalliance\/perm\/floor2"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
