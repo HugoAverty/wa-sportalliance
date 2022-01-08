@@ -81,7 +81,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":"floor1.json"
+                                 "value":"\/@\/sportalliance\/perm\/floor1.json"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -99,7 +99,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":"floor2.json"
+                                 "value":"\/@\/sportalliance\/perm\/floor2.json"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -1550,17 +1550,17 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"TODO"
+         "value":"Copyright for Workadventu.re and SportAlliance"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"TODO"
+         "value":"Sportalliance building, meeting room and workspace"
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"map.png"
+         "value":"wa-sportalliance.png"
         }, 
         {
          "name":"mapLink",
@@ -1570,7 +1570,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"TODO"
+         "value":"Main Floor"
         }, 
         {
          "name":"script",
