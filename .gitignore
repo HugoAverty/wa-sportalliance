@@ -3,3 +3,5 @@ yarn.lock
 src/.DS_Store
 sketch/.DS_Store
 .DS_Store
+src/animations/.DS_Store
+src/assets/.DS_Store

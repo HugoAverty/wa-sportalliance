@@ -81,7 +81,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":"\/@\/sportalliance\/perm\/floor2"
+                                 "value":"\/@\/sportalliance\/perm\/engineering"
                                 }],
                          "type":"tilelayer",
                          "visible":true,

@@ -63,7 +63,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":"\/@\/sportalliance\/perm\/floor1"
+                                 "value":"\/@\/sportalliance\/perm\/magicline"
                                 }],
                          "type":"tilelayer",
                          "visible":true,

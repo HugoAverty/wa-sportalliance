@@ -63,7 +63,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":"\/@\/sportalliance\/floor1"
+                                 "value":"\/@\/sportalliance\/perm\/magicline"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -81,7 +81,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":"\/@\/sportalliance\/floor2"
+                                 "value":"\/@\/sportalliance\/perm\/engineering"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
