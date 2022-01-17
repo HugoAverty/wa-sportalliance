@@ -81,7 +81,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":"\/@\/sportalliance\/perm\/welcome"
+                                 "value":"\/@\/sportalliance\/perm\/welcome#entryFloor"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
